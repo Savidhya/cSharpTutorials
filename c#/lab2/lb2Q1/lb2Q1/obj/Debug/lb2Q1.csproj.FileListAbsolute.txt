@@ -1,0 +1,8 @@
+C:\Users\Savidhya\Desktop\c#git hub\lb2Q1\lb2Q1\bin\Debug\lb2Q1.exe.config
+C:\Users\Savidhya\Desktop\c#git hub\lb2Q1\lb2Q1\bin\Debug\lb2Q1.exe
+C:\Users\Savidhya\Desktop\c#git hub\lb2Q1\lb2Q1\bin\Debug\lb2Q1.pdb
+C:\Users\Savidhya\Desktop\c#git hub\lb2Q1\lb2Q1\obj\Debug\lb2Q1.csproj.AssemblyReference.cache
+C:\Users\Savidhya\Desktop\c#git hub\lb2Q1\lb2Q1\obj\Debug\lb2Q1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Savidhya\Desktop\c#git hub\lb2Q1\lb2Q1\obj\Debug\lb2Q1.csproj.CoreCompileInputs.cache
+C:\Users\Savidhya\Desktop\c#git hub\lb2Q1\lb2Q1\obj\Debug\lb2Q1.exe
+C:\Users\Savidhya\Desktop\c#git hub\lb2Q1\lb2Q1\obj\Debug\lb2Q1.pdb
